@@ -1,0 +1,45 @@
+2022-04-18 00:29:46 ERROR GlobalExceptionHandler:17 - Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "yu"
+2022-04-18 00:30:36 ERROR GlobalExceptionHandler:17 - Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "ui"
+2022-04-18 00:32:00 ERROR GlobalExceptionHandler:17 - Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "yu"
+2022-04-18 00:59:17 ERROR GlobalExceptionHandler:17 - Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "oi"
+2022-04-18 00:59:39 ERROR GlobalExceptionHandler:17 - Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "op"
+2022-04-18 00:59:44 ERROR GlobalExceptionHandler:17 - Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "1p"
+2022-04-18 00:59:51 ERROR GlobalExceptionHandler:17 - Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "yu"
+2022-04-18 01:40:50 ERROR GlobalExceptionHandler:17 - No existe un paciente con ID 78
+2022-04-18 01:41:08 ERROR GlobalExceptionHandler:17 - No existe un turno con ID 78
+2022-04-18 01:43:25 ERROR GlobalExceptionHandler:17 - No existe un dentista con ID 78
+2022-04-18 01:44:41 ERROR GlobalExceptionHandler:17 - Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "7p"
+2022-04-18 01:44:51 ERROR GlobalExceptionHandler:17 - No existe un dentista con ID 77
+2022-04-18 14:02:35 ERROR GlobalExceptionHandler:17 - No existe un paciente con ID 78
+2022-04-18 14:02:51 ERROR GlobalExceptionHandler:17 - No existe un turno con ID 78
+2022-04-18 14:03:40 ERROR GlobalExceptionHandler:17 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2022-04-18 14:04:02 ERROR GlobalExceptionHandler:17 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2022-04-18 14:11:52 ERROR GlobalExceptionHandler:17 - No existe un dentista con ID 77
+2022-04-18 14:16:44 ERROR GlobalExceptionHandler:17 - Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "iu"
+2022-04-18 14:21:43 ERROR GlobalExceptionHandler:17 - No existe un turno con ID 78
+2022-04-18 14:24:50 ERROR GlobalExceptionHandler:17 - No existe un turno con ID 7
+2022-04-18 15:00:09 ERROR GlobalExceptionHandler:17 - No existe un turno con ID 7
+2022-04-18 15:04:40 ERROR GlobalExceptionHandler:17 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2022-04-18 15:16:57 ERROR GlobalExceptionHandler:17 - Error al seleccionar un paciento o dentista could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2022-04-18 23:17:54 ERROR GlobalExceptionHandler:17 - No existe un turno con ID 88
+2022-04-18 23:19:03 ERROR GlobalExceptionHandler:17 - Error al seleccionar un paciento o dentista could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2022-04-18 23:24:32 ERROR GlobalExceptionHandler:17 - Error al tratar de eliminar al dentista con id 22No class Dh.IntegradorHIbernate.persistance.entity.Dentist entity with id 22 exists!
+2022-04-18 23:27:49 ERROR GlobalExceptionHandler:17 - No existe un dentista con ID 77
+2022-04-18 23:27:55 ERROR GlobalExceptionHandler:17 - Error El dentista con id 22 no existe. No class Dh.IntegradorHIbernate.persistance.entity.Dentist entity with id 22 exists!
+2022-04-18 23:54:32 ERROR GlobalExceptionHandler:17 - Error El dentista con id 99 no existe.
+2022-04-18 23:55:28 ERROR GlobalExceptionHandler:17 -  El dentista con id 99que se quiere actualizar no existe.
+2022-04-18 23:55:44 ERROR GlobalExceptionHandler:17 -  El dentista con id 99que se quiere actualizar no existe.
+2022-04-18 23:56:17 ERROR GlobalExceptionHandler:17 -  El dentista con id 99 que se quiere actualizar no existe.
+2022-04-18 23:56:53 ERROR GlobalExceptionHandler:17 -  El dentista con id: 99, que se quiere actualizar no existe.
+2022-04-18 23:57:03 ERROR GlobalExceptionHandler:17 - Error El dentista con id 22 no existe. No class Dh.IntegradorHIbernate.persistance.entity.Dentist entity with id 22 exists!
+2022-04-18 23:57:59 ERROR GlobalExceptionHandler:17 - El dentista con id: 22, que se desea eliminar no existe. No class Dh.IntegradorHIbernate.persistance.entity.Dentist entity with id 22 exists!
+2022-04-19 02:22:07 ERROR GlobalExceptionHandler:17 - Request method 'GET' not supported
+2022-04-19 02:22:15 ERROR GlobalExceptionHandler:17 - No existe un paciente con ID 1
+2022-04-19 02:22:20 ERROR GlobalExceptionHandler:17 - No existe un paciente con ID 2
+2022-04-19 02:22:23 ERROR GlobalExceptionHandler:17 - No existe un paciente con ID 3
+2022-04-19 02:22:30 ERROR GlobalExceptionHandler:17 - Request method 'GET' not supported
+2022-04-19 02:22:45 ERROR GlobalExceptionHandler:17 - No existe un dentista con ID 5
+2022-04-19 02:25:30 ERROR GlobalExceptionHandler:17 - No existe un dentista con ID 5
+2022-04-19 02:25:35 ERROR GlobalExceptionHandler:17 - No existe un dentista con ID 1
+2022-04-19 02:27:19 ERROR GlobalExceptionHandler:17 - could not extract ResultSet; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+2022-04-19 02:30:33 ERROR GlobalExceptionHandler:17 - could not extract ResultSet; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not extract ResultSet
